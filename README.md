@@ -136,9 +136,11 @@ O diagrama apresenta a organização da infraestrutura e a ligação entre os pr
 
 💻 Simulação no Cisco Packet Tracer 
 
-A simulação foi desenvolvida no Cisco Packet Tracer para representar a infraestrutura planejada, configurar os dispositivos e realizar testes de comunicação. 
+## 💻 Simulação no Cisco Packet Tracer
 
-O arquivo da simulação de rede está disponível na pasta `arquivo_cisco`. Para visualizar e testar a topologia, baixe o arquivo `.pkt` e abra-o no Cisco Packet Tracer.
+A simulação foi desenvolvida no Cisco Packet Tracer para representar a infraestrutura de rede e realizar testes de comunicação entre os dispositivos.
+
+[📥 Baixar arquivo do Cisco Packet Tracer](./arquivo_cisco/PROJETO%20CISCO.pkt)
 
 N🎥 Demonstração em vídeo 
 
